@@ -16,7 +16,7 @@ This application uses [MEAN](http://mean.io), to run programs on your machine ma
 
 ## Deployment
 
-The goal is maintain the latest developments of qcircuit. In addition to adding [qcircuitz](https://github.com/CQuIC/qcircuitz) which is similar to qcircuit but it utilizes Tikz for drawing the quantum circuit.
+The goal is maintain the latest developments of qcircuit. In addition to adding [qcircuitz](https://github.com/CQuIC/qcircuitz) which is similar to qcircuit but it utilizes Tikz for drawing the quantum circuits.
 
 ## Useful tools 
 
