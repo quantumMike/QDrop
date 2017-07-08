@@ -22,7 +22,7 @@ The goal is maintain the latest developments of qcircuit. In addition to adding 
 
 http://mean.io
 
-The design tools utilized will be added soon.
+The design tools will be added soon.
 
 ## Contributing
 
